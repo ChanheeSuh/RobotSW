@@ -1,0 +1,5 @@
+C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\classes\debug
+C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-59e5a637ebb9d8dd4d3cb8098bce3d247efa66f2.jar
+C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\wizturnbeaconsdk-2.0.1-821be8e400aa8ab338b1d791e237b3eca1820028.jar
+C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4de3e03042776e318e09f15182b777015b0d161b.jar
+C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\classes-8b0a5518ee5bfd993654ed03c6bd60c738333b7d.jar

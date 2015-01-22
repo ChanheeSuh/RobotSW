@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-59e5a637ebb9d8dd4d3cb8098bce3d247efa66f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4de3e03042776e318e09f15182b777015b0d161b.jar" />
+    </item>
+    <item
+        jar="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\classes-8b0a5518ee5bfd993654ed03c6bd60c738333b7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\libs\wizturnbeaconsdk-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959adb8a02eb68e9a7aab3883b1975c7ab3f6d53">
+        <dex dex="C:\Users\chan\Desktop\Android_sw\WizTurnBeaconSample\app\build\intermediates\pre-dexed\debug\wizturnbeaconsdk-2.0.1-821be8e400aa8ab338b1d791e237b3eca1820028.jar" />
+    </item>
+
+</items>
